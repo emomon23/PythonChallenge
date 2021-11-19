@@ -3,7 +3,7 @@ class Logger:
         print(msg);
 
     def LogError(err):
-        if err == None
-            print("Loger.LogError - err = None");
+        if err == None:
+            print("Logger.LogError - err = None");
 
         print(f"Unexpected {err=}, {type(err)=}")
