@@ -5,8 +5,8 @@ Create a virtual environment:
    python3 -m venv LPChallenge
    
 Add Dependencies (pip install) 
-  httpx
-  asyncio
-  jsonpickle 
+  * httpx
+  * asyncio
+  * jsonpickle 
   
 execute Main.py
